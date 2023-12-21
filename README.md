@@ -10,4 +10,5 @@
 逆量化
 恢复44100采样赫兹
 最终恢复原信号的大作业！
+---喜欢请star！---
 ![微信图片_20231221234708](https://github.com/huee-ops/XDU-Communication_principle_homework/assets/61403555/97069957-9b6e-415d-af64-e0e0a8b73d1e)
