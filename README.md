@@ -1,5 +1,5 @@
 # XDU-Communication_principle_homework
-西电电院通信原理了大作业
+西电电院通信原理大作业
 实现了一个MP3音频输入
 然后8K采样
 然后量化/编码
